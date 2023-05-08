@@ -1,0 +1,7 @@
+[31m[t, u, v, w, x, y, z, a][0m
+[31m[a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, a, b][0m
+[31m[c, d, e, f][0m
+[31m[h][0m
+Invalid input!
+Invalid input!
+Invalid input!
